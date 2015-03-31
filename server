@@ -1,0 +1,9 @@
+
+[deploy]
+checkout = git clone 'git@github.com:mathblab/deploy' 'deploy'
+
+[mathblab.github.io]
+checkout = git clone 'git@github.com:mathblab/mathblab.github.io' 'mathblab.github.io'
+
+[grand-challenge]
+checkout = git clone 'git@github.com:mathblab/grand-challenge' 'grand-challenge'
